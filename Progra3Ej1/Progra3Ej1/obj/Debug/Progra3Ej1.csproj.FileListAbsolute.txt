@@ -1,0 +1,6 @@
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\bin\Debug\Progra3Ej1.exe.config
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\bin\Debug\Progra3Ej1.exe
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\bin\Debug\Progra3Ej1.pdb
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\obj\Debug\Progra3Ej1.csprojResolveAssemblyReference.cache
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\obj\Debug\Progra3Ej1.exe
+c:\users\priscilla\documents\visual studio 2015\Projects\Progra3Ej1\Progra3Ej1\obj\Debug\Progra3Ej1.pdb
